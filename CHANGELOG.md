@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1](https://github.com/Aetf/unicode-truncate/compare/v1.0.0...v1.0.1) - 2024-05-05
+
+### Other
+- tweak renovate configs ([#13](https://github.com/Aetf/unicode-truncate/pull/13))
+
 ## [1.0.0](https://github.com/Aetf/unicode-truncate/compare/v0.2.0...v1.0.0) - 2024-04-26
 
 It's about time for a 1.0 release. This crate has been stable over the years.
